@@ -1,0 +1,27 @@
+Sep 10 15:00:00 server1 kernel: [  500.123456] EXT4-fs error (device sda1): ext4_find_entry:1309: inode #153421: comm bash: reading directory lblock 0
+Sep 10 15:01:00 server1 kernel: [  501.123456] EXT4-fs warning (device sdb1): ext4_dx_add_entry: Directory index full - inode #174982
+Sep 10 15:02:00 server1 kernel: [  502.123456] EXT4-fs error (device sda2): ext4_mb_generate_buddy:741: group 5, block bitmap inconsistent: inode #198234
+Sep 10 15:03:00 server1 kernel: [  503.123456] EXT4-fs (device sdc1): I/O error reading block 0 in inode #165432
+Sep 10 15:04:00 server1 kernel: [  504.123456] EXT4-fs error (device sda1): ext4_readdir:234: inode #142398: directory corrupted
+Sep 10 15:05:00 server1 kernel: [  505.123456] EXT4-fs warning (device sdb1): ext4_end_bio:325: I/O error -5 writing to inode #187654
+Sep 10 15:06:00 server1 kernel: [  506.123456] EXT4-fs error (device sda2): ext4_find_entry:1309: inode #190234: comm bash: reading directory lblock 0
+Sep 10 15:07:00 server1 kernel: [  507.123456] EXT4-fs warning (device sda1): ext4_dx_add_entry: Directory index full - inode #123987
+Sep 10 15:08:00 server1 kernel: [  508.123456] EXT4-fs error (device sdb1): ext4_mb_generate_buddy:741: block bitmap inconsistent: inode #175678
+Sep 10 15:09:00 server1 kernel: [  509.123456] EXT4-fs error (device sdc1): ext4_readdir:234: inode #162543: directory corrupted
+Sep 10 15:10:00 server1 kernel: [  510.123456] EXT4-fs warning (device sda1): ext4_end_bio:325: I/O error -5 writing to inode #188999
+Sep 10 15:11:00 server1 kernel: [  511.123456] EXT4-fs error (device sda2): ext4_find_entry:1309: inode #192233: comm bash: reading directory lblock 0
+Sep 10 15:12:00 server1 kernel: [  512.123456] EXT4-fs error (device sdb1): ext4_mb_generate_buddy:741: bg descriptor inconsistent: inode #173221
+Sep 10 15:13:00 server1 kernel: [  513.123456] EXT4-fs warning (device sdc1): ext4_dx_add_entry: Directory index full - inode #140987
+Sep 10 15:14:00 server1 kernel: [  514.123456] EXT4-fs error (device sda1): ext4_readdir:234: inode #199872: directory corrupted
+Sep 10 15:15:00 server1 kernel: [  515.123456] EXT4-fs warning (device sdb1): ext4_end_bio:325: I/O error -5 writing to inode #164328
+Sep 10 15:16:00 server1 kernel: [  516.123456] EXT4-fs error (device sda2): ext4_find_entry:1309: inode #139765: comm bash: reading directory lblock 0
+Sep 10 15:17:00 server1 kernel: [  517.123456] EXT4-fs error (device sda1): ext4_readdir:234: inode #177654: directory corrupted
+Sep 10 15:18:00 server1 kernel: [  518.123456] EXT4-fs warning (device sdb1): ext4_dx_add_entry: Directory index full - inode #155432
+Sep 10 15:19:00 server1 kernel: [  519.123456] EXT4-fs error (device sdc1): ext4_mb_generate_buddy:741: block bitmap inconsistent: inode #180234
+Sep 10 15:20:00 server1 kernel: [  520.123456] EXT4-fs error (device sda2): ext4_find_entry:1309: inode #166432: comm bash: reading directory lblock 0
+Sep 10 15:21:00 server1 kernel: [  521.123456] EXT4-fs warning (device sda1): ext4_end_bio:325: I/O error -5 writing to inode #190876
+Sep 10 15:22:00 server1 kernel: [  522.123456] EXT4-fs error (device sdb1): ext4_readdir:234: inode #148765: directory corrupted
+Sep 10 15:23:00 server1 kernel: [  523.123456] EXT4-fs warning (device sdc1): ext4_dx_add_entry: Directory index full - inode #178902
+Sep 10 15:24:00 server1 kernel: [  524.123456] EXT4-fs error (device sda1): ext4_mb_generate_buddy:741: bg descriptor inconsistent: inode #193210
+Sep 10 15:25:00 server1 kernel: [  525.123456] EXT4-fs error (device sdb1): ext4_find_entry:1309: inode #165123: comm bash: reading directory lblock 0
+

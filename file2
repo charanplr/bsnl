@@ -1,0 +1,11 @@
+pipeline {
+    agent any   // Run on any available Jenkins agent
+
+    stages {
+        stage('Checkout') {
+            steps {
+                echo 'Pulling source code...'
+                git branch: 'main',
+                    url: 'https://github.com/example/project.git'
+            }
+        }
